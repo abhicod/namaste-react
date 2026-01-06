@@ -1,0 +1,22 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "we'll learn react here",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhicod/namaste-react.git"
+  },
+  "author": "abhishek sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhicod/namaste-react/issues"
+  },
+  "homepage": "https://github.com/abhicod/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  }
+}
