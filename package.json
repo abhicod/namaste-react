@@ -2,7 +2,6 @@
   "name": "namaste_react",
   "version": "1.0.0",
   "description": "we'll learn react here",
-  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
